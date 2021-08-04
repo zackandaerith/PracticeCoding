@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract class/Abstract class.iml" filepath="$PROJECT_DIR$/Abstract class/Abstract class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advanture/Advanture.iml" filepath="$PROJECT_DIR$/Advanture/Advanture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking/Banking.iml" filepath="$PROJECT_DIR$/Banking/Banking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumElement/MinimumElement.iml" filepath="$PROJECT_DIR$/MinimumElement/MinimumElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mobile Phone/Mobile Phone.iml" filepath="$PROJECT_DIR$/Mobile Phone/Mobile Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Playlist/Playlist.iml" filepath="$PROJECT_DIR$/Playlist/Playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeCoding.iml" filepath="$PROJECT_DIR$/PracticeCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" filepath="$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortedCollections/sortedCollections.iml" filepath="$PROJECT_DIR$/sortedCollections/sortedCollections.iml" />
+    </modules>
+  </component>
+</project>
